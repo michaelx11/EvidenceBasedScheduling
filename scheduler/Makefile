@@ -13,4 +13,4 @@ Estimate.o: Estimate.cc
 	g++ -c Estimate.cc
 
 clean:
-	rm -f Scheduler *.o
+	rm -f Scheduler *.o *.gch
